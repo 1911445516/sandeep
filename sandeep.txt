@@ -1,0 +1,3 @@
+creating a github account
+learnt the basic addition,subtraction,division in the python
+learnt how to save the file using the control s
